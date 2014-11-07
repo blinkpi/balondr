@@ -24,7 +24,7 @@ web/app/uploads/*
 !web/app/mu-plugins/bedrock-autoloader.php
 
 # Vendor (e.g. Composer)
-vendor/*
+# vendor/*
 !vendor/.gitkeep
 
 # Node Package Manager
